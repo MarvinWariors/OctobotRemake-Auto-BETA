@@ -1,4 +1,4 @@
-.octo_modal, .octo_as {
+.marvin_modal, .marvin_as {
   display: none; /* Hidden by default */
   position: fixed; 
   z-index: 1; 
