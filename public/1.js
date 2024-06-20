@@ -1,6 +1,6 @@
 // modal
-var modal = document.querySelector('.octo_modal');
-var modal2 = document.querySelector('.octo_as');
+var modal = document.querySelector('.marvin_modal');
+var modal2 = document.querySelector('.marvin_as');
 
 // button to open
 var btn = document.querySelector('.open-modal');
