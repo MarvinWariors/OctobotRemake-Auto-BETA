@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
     description: 'add cookie to ur database for later use ',
     role: 'user',
-    cooldown: 3,
+    cooldown: 5,
     credits: 'Rejard',
     execute: async function(api, event, args) {
         const [cookieValue] = args;
